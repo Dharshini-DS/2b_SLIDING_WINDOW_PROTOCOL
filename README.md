@@ -11,9 +11,11 @@ To write a python program to perform sliding window protocol
 6. Stop the Program
 ## PROGRAM
 
+### Client:
 
 ![406ex2b](https://github.com/Dharshini-DS/2b_SLIDING_WINDOW_PROTOCOL/assets/93427345/08101450-058d-4539-a5b2-711794eeebe1)
 
+### Server:
 
 ![406ex2bi](https://github.com/Dharshini-DS/2b_SLIDING_WINDOW_PROTOCOL/assets/93427345/aa570937-f52a-4e89-8da9-d310988f5d46)
 
